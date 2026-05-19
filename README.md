@@ -20,14 +20,14 @@ foreach ($equipamentosdeinformatica as $i){
 }
 
 $pessoas = [
-    'kevin' => 21,
-    'toguro' => 24,
-    'gelado' => 35,
-    'manu momo' => 23,
-    'dan peso pesado' => 25,
-    'samara' => 28,
-    'felipe' => 22,
-    'cuca' => 29
+    'kevin' => 10,
+    'toguro' => 2,
+    'gelado' => 9,
+    'manu momo' => 7,
+    'dan peso pesado' => 8,
+    'samara' => 6,
+    'felipe' => 7,
+    'cuca' => 10,
 ];
 
 foreach ($pessoas as $nome => $nota){
